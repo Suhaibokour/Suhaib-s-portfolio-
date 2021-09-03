@@ -38,14 +38,14 @@ class SimpleFooter extends React.Component {
             <Row className=" row-grid align-items-center mb-5">
               <Col lg="6">
                 <h3 className=" text-primary font-weight-light mb-2">
-                  Thank you for supporting us!
+                  Thank you for visiting my portfolio !
                 </h3>
-                <h4 className=" mb-0 font-weight-light">
+                {/* <h4 className=" mb-0 font-weight-light">
                   Let's get in touch on any of these platforms.
-                </h4>
+                </h4> */}
               </Col>
               <Col className="text-lg-center btn-wrapper" lg="6">
-                <Button
+                {/* <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
                   href="https://twitter.com/creativetim"
@@ -58,8 +58,8 @@ class SimpleFooter extends React.Component {
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip475038074">
                   Follow us
-                </UncontrolledTooltip>
-                <Button
+                </UncontrolledTooltip> */}
+                {/* <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
                   href="https://www.facebook.com/creativetim"
@@ -86,8 +86,8 @@ class SimpleFooter extends React.Component {
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip829810202">
                   Follow us
-                </UncontrolledTooltip>
-                <Button
+                </UncontrolledTooltip> */}
+                {/* <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
                   href="https://github.com/creativetimofficial"
@@ -100,7 +100,7 @@ class SimpleFooter extends React.Component {
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip495507257">
                   Star on Github
-                </UncontrolledTooltip>
+                </UncontrolledTooltip> */}
               </Col>
             </Row>
             <hr />
